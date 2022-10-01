@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/VirtualCryptoIndex/static/css/main.f69c9c5a.css",
+    "main.js": "/VirtualCryptoIndex/static/js/main.52f05402.js",
+    "static/js/787.3b5d7c36.chunk.js": "/VirtualCryptoIndex/static/js/787.3b5d7c36.chunk.js",
+    "static/media/crypto3.gif": "/VirtualCryptoIndex/static/media/crypto3.ff672099230b9c3eda40.gif",
+    "static/media/Vandiana_Platin_Lite.ttf": "/VirtualCryptoIndex/static/media/Vandiana_Platin_Lite.2282032a90c3240b8390.ttf",
+    "index.html": "/VirtualCryptoIndex/index.html",
+    "main.f69c9c5a.css.map": "/VirtualCryptoIndex/static/css/main.f69c9c5a.css.map",
+    "main.52f05402.js.map": "/VirtualCryptoIndex/static/js/main.52f05402.js.map",
+    "787.3b5d7c36.chunk.js.map": "/VirtualCryptoIndex/static/js/787.3b5d7c36.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f69c9c5a.css",
+    "static/js/main.52f05402.js"
+  ]
+}
